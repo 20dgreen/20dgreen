@@ -1,4 +1,10 @@
-### Hi there 👋
+## Hey, I'm Declan.
+
+#### About me.
+I am a student at Iowa State University studing Aerospace Engineering and Computer Science.
+
+#### Current projects.
+AER E 361.
 
 <!--
 **20dgreen/20dgreen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
