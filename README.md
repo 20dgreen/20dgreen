@@ -1,7 +1,7 @@
 ## Hey, I'm Declan.
 
 #### About me.
-I am a student at Iowa State University studing Aerospace Engineering and Computer Science.
+I am a student at Iowa State University studying Aerospace Engineering and Computer Science.
 
 #### Current projects.
 AER E 361.
