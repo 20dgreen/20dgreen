@@ -4,7 +4,7 @@
 I am a student at Iowa State University studying Aerospace Engineering and Computer Science.
 
 #### Current projects.
-AER E 361.
+
 
 <!--
 **20dgreen/20dgreen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
